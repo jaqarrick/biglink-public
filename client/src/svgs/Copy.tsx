@@ -1,0 +1,17 @@
+import React from "react"
+
+export const Copy = () => (
+	<svg
+		width='40'
+		height='40'
+		viewBox='0 0 40 40'
+		fill='none'
+		xmlns='http://www.w3.org/2000/svg'>
+		<path
+			fill-rule='evenodd'
+			clip-rule='evenodd'
+			d='M0.641663 0.641724H1.79166H28.625H29.775V1.79172V10.2251H38.2083H39.3583V11.3751V38.2084V39.3584H38.2083H11.375H10.225V38.2084V29.7751H1.79166H0.641663V28.6251V1.79172V0.641724ZM12.525 29.7751V37.0584H37.0583V12.5251H29.775V28.6251V29.7751H28.625H12.525ZM2.94166 2.94172V27.4751H11.375H27.475V11.3751V2.94172H2.94166Z'
+			fill='black'
+		/>
+	</svg>
+)
